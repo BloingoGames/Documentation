@@ -236,30 +236,12 @@ While our idea is completely unique (as no games currently exist that combine th
 
 ### **Crypt of the NecroDancer**
 
-| **Strengths**:
-
-Established player base in rhythm-roguelike space.
-Successful implementation of lore.
-Strong brand recognition.
-Proven core mechanics.
-Excellent, innovative gameplay. | **Weaknesses**:
-
-Limited strategic depth.
-Aging visual design. Is its aesthetic dated or fashionable?
-Less satisfying progression system. |
+| **Strengths** | **Weaknesses** |
 | --- | --- |
-| **Opportunities**:
+| Established player base in rhythm-roguelike space.<br>Successful implementation of lore.<br>Strong brand recognition.<br>Proven core mechanics.<br>Excellent, innovative gameplay. | Limited strategic depth.<br>Aging visual design. Is its aesthetic dated or fashionable?<br>Less satisfying progression system. |
+| **Opportunities** | **Threats** |
+| Players seeking deeper strategic elements.<br>Can create a more profound lore and universe.<br>Can relate our game to something people know and love.<br>Collaboration, endorsement, sponsorship (local companies, brands, advertising). | Brand loyalty among existing players.<br>Budget is far superior to ours.<br>Movement is logically combined with rhythm.<br>Possible sequel development. |
 
-Players seeking deeper strategic elements.
-Can create a more profound lore and universe.
-Can relate our game to something people know and love.
-Collaboration, endorsement, sponsorship (local companies, brands, advertising).
- | **Threats**:
-
-Brand loyalty among existing players.
-Budget is far superior to ours
-Movement is logically combined with rhythm.
-Possible sequel development. |
 
 # **3. Strategy**
 
