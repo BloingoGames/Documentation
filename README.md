@@ -1,211 +1,173 @@
-# THE Business Plan
+# Bloingo Games Business Plan
 
-[Notes from Chris changes](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/Notes%20from%20Chris%20changes%201b6e964524c580aba8a6e22ea9c3c1c1.md)
+![image.png](Appendix/image.png)
 
 # **1. Product**
 
-## **1.1. Executive Summary**
+## **1.1 Mission Statement & Introduction**
 
-### **Mission Statement & Introduction**
+**Just Snap** is an innovative new game that combines the strategic, tactical nature of card games with the satisfying, challenging beats of rhythm games, enhanced with a thrilling multiplayer experience and popular ‘roguelike’ mechanics.
 
-**Literally Just Snap** is an innovative new game that combines the strategic, tactical nature of card games with the satisfying, challenging beats of rhythm games, enhanced with a thrilling multiplayer experience and popular ‘roguelike’ mechanics.
+definitions of Roguelike,
 
-This is the first game being designed and developed by **Bloingo Games,** a new game studio striving to create groundbreaking games that both capitalise on market trends and bring new innovations to the gaming industry.
+rhythm - 
 
-![image.png](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image.png)
+card 
 
-### **~~Problem Solved and Solution~~**
+deckbuilder
 
-The games market is saturated with card and rhythm games. However, nobody has combined the two in order to tap into both demographics simultaneously. 
+This is the first game being designed and developed by **Bloingo Games,** our new game studio striving to create groundbreaking games that both capitalise on market trends by bringing new innovations to the gaming industry.
 
-A combination of these two genres could break new ground and provide solutions to problems in each:
+## **1.2 The Problem**
 
-- **Card Games**: Often repetitive, lacking rewards and incentives to keep players motivated. Seasoned players find them too simple after a short period.
-- **Rhythm Games**: More innovative at their core than card games, but they often lack more developed ideas and become repetitive over time. (Lore/narrative as well?)
+Card games are loved by many, with countless examples of similar team sizes to our own celebrating great success in recent years ([New York Times, 2025](https://www.nytimes.com/wirecutter/reviews/best-card-games/)). However lots of tabletop games are inherently flawed. Gaming connoisseurs know that tabletop games can become tedious and repetitive after a while, due to lacking rewards and incentives to keep them wanting more ([There Will Be Games, 2023](https://therewillbe.games/articles-essays/9209-repetitive-variety-a-game-doesn-t-have-to-be-different-every-time)). 
 
-**Literally Just Snap** overcomes these challenges by combining the strategic, yet easy-to-learn nature of card games, with the complex, high difficulty ceilings of rhythm games. Our concept ensures an addictive and engaging gameplay loop that satisfies both casual gamers and seasoned professionals alike, creating a playful sandbox for music lovers and button-pushers. (Too avant-gardes)
+Rhythm games, on the other hand, do provide more stimulation and satisfaction: providing physical, emotional and cognitive benefits to the players that play them [(Acer, 2024)](https://blog.acer.com/en/discussion/1413/rhythm-games-their-physical-social-and-emotional-benefits#:~:text=Studies%20show%20playing%20rhythm%2Dbased,from%20enhanced%20musical%20perception%20skills). These have their own issues though, generating only niche appeal and lacking more intricate, strategic elements that keep players engaged over long periods ([Kutovaya Elena, 2023)](http://linkedin.com/pulse/how-lack-strategy-game-design-kills-games-kutovaya-elena-spfbf).
 
-[https://www.notion.so](https://www.notion.so)
+In our market analysis, we found that customers had more nuanced, specific ‘pain points’ with each of these genres that our product**,[mention when in our minutes we found this?] Just Snap**, aims to solve:
+
+### **Traditional Card Games**
+
+- **Repetitive Play & Reliance on Luck:** Familiar card games can grow stale, and random draws can make a player’s hard-earned skills or carefully planned strategies feel wasted. Players lose interest in a game when, after twenty rounds, they lose their carefully thought-out deck of cards to an ‘unlucky’ hand.
+- **Lack of Real-Time Excitement:** The core gameplay loop remains unchanged round after round, and these games tend to demand less immediate engagement from the player.
+
+### **Deckbuilders**
+
+- **Option Paralysis:** While the complexity of deck configuration lends itself nicely to replayability, overwhelming choice can cause new players to become confused about which cards to add to their deck.
+
+### **Rhythm Games**
+
+- **One-Dimensional Progression & Niche Appeal:** Most rely on difficulty scaling for longer-term progression without adding deeper replay value.
+- **High Entry Barrier:** Rapidly increasing challenge levels can alienate casual players more in interested in having fun than testing their limits.
+- **Lack of variety**: There have been a few unique and successful rhythm games (eg. Guitar Hero and Geometry Dash), but most still rely solely on a basic beat-matching mechanic, with few taking advantage of more complex ideas in this space.
+
+Just Snap overcomes these challenges by combining the strategic, but easy to pick up nature of card games with the complex, high difficulty ceilings of rhythm games. Our concept ensures an addictive and engaging gameplay loop that satisfies casual and seasoned gamers alike, creating a dynamic challenge for both music lovers and button-mashers.
+
+## **1.3 Our Solution “Just Snap”**
+
+Just Snap is a multiplayer card-rhythm game where players can build powerful decks of cards containing special abilities. Loosely based on the traditional card game ‘snap’, it is easy to learn, but challenging to master with its complex combinations of cards and precise musically-timed moves.
+
+With a competitive, high-stakes multiplayer format akin to the likes of *Uno* and *War*, players win by collecting all of the cards in play. To do so, they must match their cards with other players’ in rhythm-based battles to secure their opponents’ hands: all synchronised to bespoke soundtracks designed specifically for the game.
+
+Players can also collect special Bloingo cards that significantly alter the game. Some effects include; reversing the music, changing the tempo, or even stealing other players’ cards. These unpredictable effects raise the stakes and help level competition between newcomers and experienced players.
+
+![image.png](Appendix/image%201.png)
+
+These unique cards mean every play-through is different: similar to contemporary rogue-likes like *Slay the Spire* and *Hades*, limitless combinations (‘builds’) of cards can be devised to create endless possibilities.
+
+### Addressing the Pain Points
+
+The simplicity of *Snap* opens up possibilities for unique gameplay mechanics (REFERENCE) that these **Bloingo** cards will activate, in turn solving the issue of  “not having enough strategy” by allowing players to plan ahead based on the abilities of their held cards. 
+
+“Option paralysis” will be avoided by having a smaller pool of special cards, ensuring that each has a specific, designed purpose and our players are never confused about what a card does; while the issues of “high difficulty” and “lack of variety” in rhythm games are inherently solved by our core concept: an engaging, accessible multiplayer card game set to a great soundtrack.
 
 ### **Competitive Advantages**
 
 - **First-mover Advantage**: Currently, no games exist that combine these two genres. The introduction of rhythm concepts into a card game is our unique selling point.
-- **Experienced Team:** With a team of seasoned developers: talent specifically recruited for their knowledge of these genres, we can focus on polishing our unique concept and creating an incredibly high-quality product from the get-go.
-- **Cross-platform Strategy**: We are planning to develop the game for the PC market, but with considerations made for mobile platforms: this will allow us to plan a mobile release, unlocking a completely new market, as soon as possible.
+- **Experienced Developers:** Comprising three BCSS game-jam winners and two professional musicians, the team is well equipped to produce a competitive, high quality product within this niche.
+- **Cross-Platform Strategy**: We intended to develop the game for the PC market, but with mobile development also in mind: opening access to a completely new market, as soon as possible.
 - **Scope:** As our first game, we have focused on a simple yet innovative, easy-to-develop concept that will ensure a fast release and allow us to promptly start working on our next innovation, adding to our flexibility in a fast-moving market.
-
-***Financial Projections should probably go in Market or Strategy. Product should focus more on wow factor of our USP and ‘design’***
-
-## **1.2 Problem & Customer Needs**
-
-### **Customer Pain Points**
-
-- **Digital Card Games**:
-    - Games like *Pokémon Pocket*, *Magic: The Gathering Arena*, and *Hearthstone* rely heavily on RNG and pay-to-win mechanics, alienating casual players.
-    - Progression feels meaningless, as players aren’t permanently rewarded for engagement.
-    - Staying competitive requires significant financial investment, often through RNG-based loot boxes.
-- **Digital Casino/Recreational Card Games**:
-    - Poor monetisation and retention strategies due to one-dimensional gameplay.
-    - Repetitive mechanics lead to player burnout.
-- **Rhythm Games**:
-    - High skill ceilings make them inaccessible to casual players.
-    - Lack of narrative depth and lore reduces long-term engagement.
-- **Roguelike Games**:
-    - Starting over each time can feel unrewarding, making players feel like they haven’t made progress.
-    - Poorly implemented procedural generation can lead to repetitive or frustrating gameplay.
-
-## **1.3 Solution (Value Proposition)**
-
-### **Product Description**
-
-**Literally Just Snap** is a multiplayer card-rhythm game in which players can build powerful decks of cards – each with their own unique abilities. Loosely based on traditional card games such as ‘snap’, it is easy to pick up, but the complex combinations of these collectable cards, combined with precise musically-timed moves, makes it hard to master.
-
-With competitive, high-stakes multiplayer action akin to the likes of *Uno*(tm) and ‘war’, players will compete to collect all of the cards in play and win the game. To do so, they must ‘snap’ their cards with other players’ by competing in rhythm-based battles to secure their opponents’ hands: all synchronised to a bespoke soundtrack designed specifically for the game.
-
-But that’s not all: players each have their own set of special **Bloingo** **cards, collected over time both by playing the game and through purchases in the in-game shop. These special cards will turn the game upside-down: reversing, speeding up or slowing down the music, stealing other players’ cards and more. This chaotic element in an otherwise skill-based game has been carefully thought out to raise the stakes in each and every game, enabling seasoned players and newcomers alike to compete with one another. 
-
-These unique cards ensure that every play-through is different: just like contemporary roguelikes like *Slay the Spire* and *Hades*, limitless combinations (‘builds’) of cards can be devised to create endless possibilities.
-
-### **Value Delivery**
-
-- **Functional Value**: Strategic deck-building combined with skill-based rhythm gameplay creates a deeper, more engaging experience than either genre alone.
-- **Emotional Value**: Progression through the roguelike elements gives the user great satisfaction, even after failure. The rhythmic elements of the game provide mood enhancing music and satisfying gameplay.
-- **Economic Value**: The payment model we will use. I suggest an initial steam cost (£1.99 - £9.99) and then the option to buy skins/coats for the cards, arenas, characters. No gacha boxes (As much as I love a loot box).
-
-### **Customer-Focused Design Principles**
-
-With our market research in mind, we are designing a game that prioritises:
-
-- **Skill > RNG**: Player performance matters more than rewards and victories depending on random chance.
-- **Strategic Deck Building**: Cards modify rhythm gameplay in meaningful ways.
-- **Balanced Difficulty Curve**: Accessible to newcomers while providing challenge for veterans.
-- **Persistent Progression**: The more you play, the more you are rewarded (meta-progression?)
-
-## **1.4 Product Differentiation & Innovation**
-
-### **Unique Gameplay Mechanics**
-
-- **Rhythmic Card Activation**: Cards are played in time with the music, adding a tactical layer to rhythm gameplay. (This is one way to implement it, it could of course just affect a timer, as opposed to having to play moves in time to rhythm).
-- **Dynamic Difficulty Adjustment**: AI-driven system that adjusts challenge based on player skill. (Is this even possible? Probably not - AI for Rob as Rob loves AI). This is essentially EOMM, but somehow less cancerous than Marvel Rivals matchmaking
-- **Level Generation**: Would it be procedurally generated? Or look like a casino table/deck?
-- **Meta-Progression System**: Roguelike nature means that when something is unlocked, it stays unlocked.
-
-### **Innovation Classification**
-
-Bloingaroo Blythm performs **"disruptive innovation" (apparently the buzzword)** by creating an entirely new category of gameplay experience. While individual elements exist in other games, this combination we are employing conceives an entirely new product that can attract players from multiple already established genres of game.
-
-***Development Roadmap belongs in 3. Strategy***
 
 # **2. Market**
 
-### **Why Invest in Bloingo Games?**
+As of Q1 2025, the global video game industry is worth **£180B**[¹](https://www.investopedia.com/global-video-game-market-could-double-in-10-years-report-says-8712136), with indie games seeing exponential growth, having a market value of **£4B** [²](https://www.mordorintelligence.com/industry-reports/indie-game-market)
 
-As of Q1 2025, the global video game industry is worth **£218B**. Within this market, indie games and hybrid genres have seen exponential growth, with market values of **£22.5B** and **£8.7B**, respectively.
+The most prominent recent success story being **Balatro**, a game combining poker with roguelike mechanics, which won **"Best Independent Game"** at The Game Awards 2024 and sold over 500,000 copies within the first three months.
 
-The most prominent recent success story is **Balatro**, a game combining poker with roguelike mechanics, which won **"Best Independent Game"** at The Game Awards 2024 and sold over 500,000 copies within three months.
+Just Snap aims to capitalise on the visibility of such successful titles in the niche with its a blend of superb music and satisfying gameplay allowing it to further stand out from them. 
 
-BloingoGames Studios is in an excellent position to capitalise on this trend by creating a sustainable business model that doesn’t rely solely on the success of one game. We predict a **100% return on investment** over a two-year period.
+Our research indicates a clear demand for engaging, skill-based card games with high replayability, and our competitive analysis confirms that no existing game fully explores the intersection between card strategy and rhythm mechanics.
 
 ## **2.1 Market Research & Validation**
 
 Our research strategy combines quantitative and qualitative approaches:
 
-- **Web Scrapping:** Scraping the steam store page and analysing genre popularity based on user-assigned tags.
-- **Surveys**: Conducted through SurveyMonkey targeting university coding and computer science society members (85 respondents) via Discord and Outlook.
-- **Interviews**: In-depth discussions with 6 indie game developers from the UK and Sweden (can claim we spoke to my step brother who works for Fatshark if we need to?)
-- **Playtesting**: Early concept testing with 15 gamers from diverse gaming backgrounds – (perhaps something we should mention we’ll consider doing).
-- **Could mention ‘Mom test’** – a way to avoid bias whilst getting data within samples of people who may know you
+- **Web Scraping:** Scraping the steam store page and analysing genre popularity based on user-assigned tags, as well as profitability within those genres.
+- **Surveys**: Conducted through Google Forms targeting university coding and computer science society members (20 respondents) via social media.
+- **Interviews**: In-depth discussions with video game developers at FyreFlight Games and FatShark studios.
+- **Play-testing**: We will invite University of Bath students to an open testing event, where they can try our game in an early development stage and share feedback.
 
-### The Web Scrape
+### **Developer Interviews**
 
-The motivation behind the web scrape, was to collect data that would allow us to identify trends in **supply $S$**, **demand** $D$, and ultimately **need** *$N$*across a variety of game categories. **Need** $N$ is a metric we came up with to identify areas of low supply and high demand. It just so happens that a very nice and intuitive way to capture this turned out to be average revenue per game (per category):
+We spoke to specialists in the indie video games industry and have received helpful advice to direct  our product and strategy:
 
-$$
-N = \frac{D}{S} = \frac{Total \space Revenue}{Number \space of \space Released \space Games} = Average \space Revenue \space per \space Game.
-$$
+**Vedanshu Mahajan, Founder of FyreFlight Games**
 
-This measure is by no means bulletproof, as for instance, **need** would rapidly approach infinity as **supply** approached 0, but nonetheless we found that it allowed us to quickly identify categories that were truly trending after cross-checking with google trends analytics.
+"Are there any similar games that haven't done that well? A good exercise is looking at them and thinking about what you will do better, whether that's just having better production or ideas or something you'll directly improve."
 
-**The Analysis**
+**Andrew Claridge, Senior Software Engineer at Fatshark Studios:** 
 
-We wrote a python script that scraped data from every accessible store page on Steam. From each steam game we collected: user reviews, pricing, user defined tags, release dates, and more. Unfortunately, none of this was direct data on sales and revenue over time, so we had to extrapolate:
+“Bloingo Game’s concept of a game based on traditional card game mechanics with added rhythm elements seems like a sound first project for a new studio. Selecting a mechanics-heavy, asset-light deliverable is a strategic choice for a technical team. The integration of proven game mechanics with roguelike elements minimises the risk of the team getting stuck finding the fun while still offering solid replayability without the need to handcraft a lot of content.
 
-1. We approximated total game sales from number of reviews via a fine-tuned implementation of 
-the [Boxleiter method](https://greyaliengames.com/blog/how-to-estimate-how-many-sales-a-steam-game-has-made/).
-2. We multiplied this by the game’s listed steam price to get total revenue.
-3. For each game, we simulated sales and revenue curves over time by spreading their initial totals over 12 month windows using an exponential decay curve.
+Current generation examples like Slay the Spire, and more recently, Balatro lend weight to this approach - both succeeded by innovating within established card game frameworks adding fun and replayable gameplay without needing an extensive library of assets or narrative elements.
+The selection of Godot as the development engine is a prudent technical decision. Using an established game engine lets the team stand up a prototype quickly and spend time iterating on their game’s unique mechanics. It also makes it easier to scale the team later during production if needed. The choice of Godot fits the game genre well and sidesteps Unity’s recent business model instability which would be a significant risk factor for a startup.” 
 
-Whilst this is generally imprecise, it was precise enough for us to identify trends across video game categories. 
+In light of Fyreflight’s recommendations, we also looked at games who haven’t performed so well, despite having an idea that seemed promising, or even gameplay which looked engaging, to see where they fell short on their projects. Some things we were able to establish: 
 
-We defined these categories with user-defined tags. Since tags ranged in their generality, with some encapsulating vast segments of the market like “Indie”, and others pinpointing specific aesthetics like “Noir”, we grouped tags based on their broadness and analysed the groups separately.
+- Something an unsuccessful project did wrong
+- Another thing they did wrong
+- Perhaps a third thing
 
-Using these groups we created cooccurrence matrices with a variety of aggregation methods in order to evaluate which combinations of tags had the highest reviews, revenues, and more.
+Our correspondence with Fatshark reaffirmed our choice of development engine. As well as this, Andrew’s extensive experience at Fatshark, where he’s currently creating the new Warhammer game, confirms that Bloingo’s direction for our first game project is a viable one, where we have made sound strategic decisions up to this point.
 
-**The Insights**
+…
 
-From this data we were able to come up with sales and revenue projections based on user-reviews and game pricing.
+### Web Scraping
 
-A detailed analysis of over 200,000 store pages lead us to some interesting findings:
+A web scrape was done to identify trends in **supply** and **demand** across a variety of game categories. An intuitive way to capture this is average revenue per game.
 
-- Indie games that were given the “Nostalgia” tag by users, generated more revenue per game than any other tag in the past 5 years, suggesting there's high demand for this theme.
-- Amongst games priced at less than £10, out of over 400 tags, “Card Game” had the 4th highest average user rating and “Roguelike Deckbuilder” was close behind at 10th position.
-- The most universally trending tag across all price ranges was the “Great Soundtrack” tag.
-- Out of all games listed on the Steam store page, only 8 have both “Card Game” and “Rhythm” tags, and only one is even remotely similar to our idea.
+We wrote a python script that scraped key data from over 200,000 Steam store pages, collecting: user-reviews, pricing, user-defined tags, released dates, and more. Using review counts and game prices, we estimated sales and revenue using standard techniques like the [Boxleiter method](http://greyaliengames.com/blog/how-to-estimate-how-many-sales-a-steam-game-has-made/), then modeled how these numbers might trend over time.
 
-This data drove us in the direction of the video game idea we eventually settled on. It revealed a trend towards musically rich games and made it clear that card games are a flourishing market for low-budget game dev teams. On top of this, in the face of these discovered trends, the combination of card games and rhythm appears to reveal a niche that hasn't been tapped into.
+We analysed which genres and themes tended to perform best with respect to average revenue per game, and customer satisfaction given by review score.
 
-![image.png](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%201.png)
+**Key Insights:**
+
+- Indie games that were given the “Nostalgia” tag by users, generated more revenue per game than any other in the past 5 years, showing there's high demand for this theme.
+- Amongst games priced at less than £10, which contained over 400 tags, “Card Game” had the 4th highest average user rating and “Roguelike Deckbuilder” was close behind in 10th position.
+- The most universally trending tag across all price ranges was  “Great Soundtrack”.
+- Out of all games listed on the Steam store page, only 8 have both “Card Game” and “Rhythm” tags, with only one being even remotely similar to our idea.
+
+This data solidified our choice of video game idea, revealing a trend towards musically rich games and making it clear that card games are a flourishing market for low-budget game development teams. On top of this, in the face of these discovered trends, the combination of card games and rhythm reveals a niche that hasn't been tapped into.
 
 **Cumulative Revenue per Game per Tag | Under £10**
 
-![image.png](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%202.png)
+![image.png](Appendix/image%202.png)
 
-**The Code**
+### **Survey Insights**
 
-Checkout our steam scraping code here: 
+From our survey of 20 respondents, here are the key findings:
 
-Check out our analysis here:
+**Cross-genre interest**: Almost all of those surveyed reported interest (rated at 3/5 or above) in a card game incorporating rhythm mechanics, with a majority scoring at least 4/5, and 65% voted “unique rhythm-based mechanics that interact with deckbuilding” as the feature that would most make our game stand out to them. With no direct competitor in that space, this validates our target niche.
 
-[https://www.notion.so](https://www.notion.so)
+**Skill Over Luck**: 85% want a card-based game that requires deeper strategy and less randomness and luck-based mechanics
 
-### **Key Market Insights**
+![image.webp](Appendix/image.webp)
 
-From our survey of 20 respondents, here are some key findings:
+**A Focus on Gameplay**: Only 20% reported interest in story and worldbuilding as compared to an overwhelming majority in various aspects of gameplay. When pressed further, 40% said they “don’t really care about story in deckbuilders,” and 25% specifically that they “prefer games to be more focused on mechanics”.
 
-- **Cross-genre interest**: Almost all of those surveyed reported interest (rated at 3/5 or above) in a card game incorporating rhythm mechanics, with a majority scoring at least 4/5. A sizeable 65% voted “unique rhythm-based mechanics that interact with deckbuilding” as the feature that would most make our game stand out to them.
-- **Skill Over Luck**: 85% want a card-based game that requires deeper strategy and less randomness and luck-based mechanics
+![image.webp](Appendix/image%201.webp)
 
-![image.webp](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image.webp)
+**Looks Matter**: Around half of respondents care about the aesthetic value of their games beyond the gameplay itself. With the “retro” tag trending in the charts, this gives a clear artistic direction to the project, and our team’s in-house artistic expertise allows us pull it off convincingly and at low cost.
 
-- **A Focus on Gameplay**: Only 20% reported interested in story and worldbuilding as compared to an overwhelming majority in various aspects gameplay. When pressed further, 40% said they “don’t really care about story in deckbuilders,” and 25% specifically that they “prefer games to be more focused on mechanics”.
+![image.webp](Appendix/image%202.webp)
 
-![image.webp](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%201.webp)
+**Multiplayer is Essential:** In addition to a compelling Steam data trend in games tagged as ‘*multiplayer*’, our respondents made it clear that they would much rather play with others than alone. When asked specifically about this, a resounding 85% would find “being able to play a game like this with friends/family” appealing.
 
-- **Looks Matter**: Around half or respondents care about the aesthetic value of their games beyond the gameplay itself. With the “retro” tag rending in the charts, this gives a clear artistic direction to the project, and our team’s in-house artistic expertise allows us pull it off convincingly and at low cost.
+![image.webp](Appendix/image%203.webp)
 
-![image.webp](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%202.webp)
+**Gameplay Balance:** While the vote for strategic and skill-based gameplay is unanimous, around half of players insist on the incorporation of random and unexpected gameplay elements to keep them on their toes. Only a small minority asked for “minimal randomness.”
 
-- **Multiplayer is Essential:** In addition to a compelling Steam data trend in games tagged as ‘*multiplayer*’, our respondents made it clear that they would much rather play with others than alone. When asked specifically about this, a resounding 85% would find “being able to play a game like this with friends/family” appealing.
+![image.webp](Appendix/image%204.webp)
 
-![image.webp](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%203.webp)
+**Replay Value:** When voting on the features that would make our game stand out, “high replayability and unlockable content” came in first with 65% of responses. For a deckbuilder game, this lends itself well to a monetisation model that includes regular DLC releases to keep things novel for players.
 
-- **Gameplay Balance:** While the vote strategic and skill-based gameplay is unanimous, around half of players insist on the incorporation of random and unexpected gameplay elements to keep them on their toes. Only a small majority asked for “minimal randomness.”
-
-![image.webp](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%204.webp)
-
-- **Replay Value:** When voting on the features that would make our game stand out, “high replayability and unlockable content” came in first with 65% of responses. For a deckbuilder game, this lends itself well to a monetisation model that includes regular DLC releases to keep things novel for players.
-
-![image.png](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%203.png)
-
-Optional – alpha testers reporting interest
-
-Early testing revealed that ___ of players either enjoyed or really enjoyed the game.
-
-____% would pay between ____ and ____ for the game.
+![image.png](Appendix/image%203.png)
 
 ---
 
-## **2.2 Competitor Analysis**
+## **2.2 Co**mp**etitor Analysis**
+
+While our idea is completely unique (as no games currently exist that combine the card and rhythm genres), we still have competition in both spaces. We have performed analysis on projects of a similar scope to our own, which share similar aesthetics and are in the same price range. These particular games may be considered by a customer as an alternative to Just Snap.
 
 ### **Direct Competitors**
 
@@ -214,334 +176,301 @@ ____% would pay between ____ and ____ for the game.
     - **Balatro**: Recent success with poker mechanics but limited progression.
 2. **Rhythm Games**:
     - **Beat Saber**: Market leader in VR rhythm games but lacks strategic elements. (Also it’s VR = vomit repeatedly)
-    - **Crypt of the NecroDancer**: Closest to our concept but lacks deck-building mechanics, instead opting for rhythm based movement. (Does it lack deck building? Oh well sounds like a great negative point).
+    - **Crypt of the NecroDancer**: Closest to our concept but lacks deck-building mechanics, instead opting for rhythm based movement. (Does it lack deck building? Oh well sounds like a great negative point
+    - **Everhood 2:** A particular focus on narrative, although not done well according to reviews
 
-### **SWOT Analysis of *Crypt of the NecroDancer***
+### **Everhood 2**
 
-**Strengths**:
+| **Strengths**:
 
-- Established player base in rhythm-roguelike space.
-- Successful implementation of lore.
-- Strong brand recognition.
-- Proven core mechanics.
-- Excellent, innovative gameplay
+• Fun rhythm based gameplay endorsed by positive and negative reviewers.
+• Resonant pixel art aesthetic.
+• Rich worldbuilding due to variety in characters and environments . | **Weaknesses**:
 
-**Weaknesses**:
+• Confusing narrative - disjointed story telling.
+• Lacklustre music, lacking variety.
+• Niche appeal - potential customer base is small.
+ |
+| --- | --- |
+| **Opportunities**:
 
-- Limited strategic depth.
-- Aging visual design. Is it’s aesthetic dated or fashionable?
-- Less satisfying progression system. (I’m making this up, ie no battle pass Big up fortnite gg)
+• Demand for diverse soundtrack, as seen in Steam’s ‘Great Soundtrack’ tag trend
+• Players seeking simpler, engaging narratives over complex lore  | **Threats**:
 
-**Opportunities**:
+• Dynamic changes in market - potential players fatigue if nostalgia trend fades
+• 
+ |
 
-- Players seeking deeper strategic elements.
-- Can create a more profound lore and universe.
-- Can relate our game to something people know and love.
-- Collaboration, endorsement, sponsorship (local companies, brands, advertising).
+### RODB: Rhythm of Deck Builder
 
-**Threats**:
+| **Strengths**:
 
-- Brand loyalty among existing players.
-- Budget is far superior to ours
-- Movement is implicitly logically with rhythm.
-- Possible sequel development.
+• Taps into card game + rhythm niche, which we have identified as trending.
+• Capitalises on anime themes which have a large following. | **Weaknesses**:
 
-**Our Unique Selling Point**
+• Simplistic music.
+• Does not tap into nostalgia genre.
+• Gameplay looks boring.
+• Not multiplayer |
+| --- | --- |
+| **Opportunities**:
 
-Bloingaroo Blythm combines the best elements of card, rhythm, and roguelike games, offering a unique experience that no other game provides. Our cross-platform accessibility and community-driven development further set us apart.
+• Allows us to distinguish our product by comparison with higher quality music and more engaging multiplayer gameplay.
+• Opportunity for converting followers over to our game. | **Threats**:
 
-## **2.3 Customer Use Cases**
+• Game is being released in a similar timeframe to ours. Serves as a direct competitor to our game, especially if they release before us. Could satisfy a portion of our potential customer base enough to disuade them from buying our game. |
 
-### **Potential examples of Core Target Demographics**
+### **Crypt of the NecroDancer**
 
-**The Rhythm Master ( add a percentage of our ‘estimates’ of what proportion of players this applies to %)**
+| **Strengths**:
 
-- **Age**: 18-34 years old.
-- **Platform**: Mostly PC players who put in at least 10+ hours weekly gaming time.
-- **Motivation**: Competitive victory (ranking), overcoming complex skill tasks (difficulty of level).
-- **Values**: Precision gameplay and measurable improvement.
-- **Current Games**: Beat Saber, osu!, Geometry Dash.
+• Established player base in rhythm-roguelike space.
+• Successful implementation of lore.
+• Strong brand recognition.
+• Proven core mechanics.
+• Excellent, innovative gameplay | **Weaknesses**:
 
-**The Strategic Deckbuilder (%)**
+• Limited strategic depth.
+• Aging visual design. Is its aesthetic dated or fashionable?
+• Less satisfying progression system. |
+| --- | --- |
+| **Opportunities**:
 
-- **Age**: 25-45 years old.
-- **Platform**: All platform gamers with 8+ hours weekly gaming time.
-- **Motivation**: Collection, meta decks and strategy development.
-- **Values**: Artwork, exploiting optimal mechanics, completion (medals, statistics)
-- **Current Games**: Slay the Spire, Monster Train, Hearthstone, Magic, Pokemon, Yu-gi-Oh, many more…
+• Players seeking deeper strategic elements.
+• Can create a more profound lore and universe.
+• Can relate our game to something people know and love.
+• Collaboration, endorsement, sponsorship (local companies, brands, advertising).
+ | **Threats**:
 
-**The Variety Seeker (%)**
+• Brand loyalty among existing players.
+• Budget is far superior to ours
+• Movement is logically combined with rhythm.
+• Possible sequel development. |
 
-- **Age**: 20-40 years old.
-- **Platform**: Multi-platform gamers again, time commitment is uncertain (usually 2-4 hours a week)
-- **Motivation**: Seeks enjoyment and satisfaction from a variety of games
-- **Values**: Innovation, stimulation and rewards
-- **Current Games**: Indie titles across multiple genres, 2048, any tower defence game,
+### **2.3 Video Game Customer Segmentation**
 
-**The Casual Explorer (%)**
+The global gaming market is currently valued at $282 billion and projected to reach [$ 363 billion by 2027](https://explodingtopics.com/blog/number-of-gamers#how-many-gamers-are-there-editors-picks). The UK stands out within this sector, having the largest video gaming audience in Europe [], where gaming is now a mainstream entertainment option [across diverse demographics](https://www.statista.com/forecasts/448421/gamers-in-european-countries). Over half of the UK population currently plays video games, [with 63% engaging in online gaming](https://www.statista.com/statistics/301331/online-gaming-in-the-uk/). 
 
-- **Age**: 30-60 years old (broad range).
-- **Platform**: Plays on accessible platforms (PC/mobile).
-- **Motivation**: Something with enough stimulation while keeping difficulty somewhat low (not impossible game!!) (2-5 hours weekly).
-- **Values**: Easy entry point with gradual learning curve.
-- **Current Games**: Mobile card games, digital board games, words with friends
+The number of video game users in the UK is projected to increase from 37.7 million in 2024 to approximately 59 million [by 2029](https://www.statista.com/forecasts/1402973/video-gamers-in-uk), supported by one of the highest video game user penetration rates globally at 58% - expected to rise to 70% by 2027, making it the market with the highest [proportion of gamers to overall population](https://www.statista.com/topics/8281/video-gamer-demographics-in-the-united-kingdom-uk/) worldwide.
+
+**UK Adults between 30-39** 
+
+Representing nearly 30% of the gaming market, with balanced gender distribution (53% male versus 47% female) and higher median income allowing for some leeway in setting our initial price point.
+
+**18-24 year old online multiplayer players**
+
+A largely online customer base allows for 80% of this age group play online multiplayer games, mostly male.
 
 # **3. Strategy**
 
-## **3.1 Market Entry Strategy**
+## **3.1 Team & Roles**
 
-### **Launch Strategy**
+Our team consists of five postgraduate students within the computer science department, who are also avid video game enthusiasts with a large pool of skills and experiences:
 
-1. **Early Store Page:**
-    - Create a steam store page as soon as possible, with high quality production grade marketing material
-    - Gradual accumulation of “wishlists”
-    - Free marketing facilitated by Steam’s recommendation algorithm
-2. **Early Access Phase** (3 months):
-    - Steam Early Access (other places? Indie marketplaces, play store?) release at reduced price point (£1.99 - £7.99?).
-    - Limited content but core gameplay loop fully implemented.
-    - Bi-weekly/monthly updates based on community feedback – how do we notify them? Discord? Email? Kickstarter?
-    - Focus on building a dedicated player community – discord, reddit, 4chan, rule34
-3. **Full Release** (PC):
-    - Price increase to £9.99 for full release.
-    - Release across Steam and [itch.io](http://itch.io/) and whoever else wants to/can
-    - Launch promotion with smaller indie-focused streamers and content creators.
-    - Participation in indie game festivals and showcases. – merch, logos, branding
-4. **Platform Expansion**:
-    - Mobile version (iOS/Android) consideration based on initial reception.
-    - Potential Nintendo Switch port if financially viable.
+- **Robert Ruta, Technical Lead, Developer**: Experienced in Unity game development, C# and Python, and has previously worked as a data scientist and software developer. Loves games.
+- **Chris Seadon, Game Design Lead, Developer**: Skilled programmer with extensive experience developing games in Godot. Talented artist and professional music producer.
+- **Jake Abrahams, UI Designer, Developer**: Skilled Java and Python programmer. Talented artist and professional musician.
+- **Plato Ng, Data Scientist, Head of Marketing**: Experienced in data analysis, market research and advertising.
+- **Francis Rowlands, Business Development Executive, Customer Engagement**: Considerable industry experience in sales, networking and teaching. Having spent many years living abroad, Francis also has a lot of experience building rapport with foreign companies, and speaks 4 languages.
 
-### **Community Building**
+### **Legal Status and Organizational Structure**
 
-- Development blog with regular updates starting 3 months pre-launch.
-- Discord server for direct community engagement.
-- University gaming society showcases to build local support. (attend student fairs, e-gaming competitions, tech fairs)
-- Regular developer updates showcasing development progress.
+Bloingo Games Ltd will operate as a Private Limited Company with Companies House (registration no. pending), providing the team with liability protection under a separate legal entity. The address will be on the University of Bath site, leveraging the academic institution's entrepreneurial ecosystem to support the studio's early development. All five co-founders will serve as directors and shareholders.
 
-## **3.1 Team & Roles – does this need a ‘background, skills, contribution’ (I do have a longer version of this drafted too)**
+The company's digital presence has already been initiated through domain registration, establishing the foundation for the studio's online brand identity ahead of formal company registration.
 
-Our team consists of five postgraduate students within the computer science department, who are also avid game enthusiasts. We not only derive pleasure from playing games but also actively engaging in creating them. 
+~~All assets produced in-house are the intellectual property of Bloingo Games Ltd~~
 
-We are also proficient in data analysis, enabling us to effectively collect, cleanse, and visualise valuable insights derived from historical data. 
+**Ownership Structure**
 
-- **Robert Ruta, Technical Lead, Sith Lord**: 5 years of experience in Unity and Python, previously worked on Rutbit.
-- **Chris Seadon, Game Design Lead, Manor owner**: Expertise in Python, Unity, and community building.
-- **Jake Abraham, Narrative Designer, Ark builder**: Award-winning beard owner with a background in game storytelling and bloingo analysis.
-- **Plato Ng, Data Scientist and potential investor finder**: Experienced in data analysis, market research and male modelling.
-- **Francis Rowlands, Marketing Lead, genius level cretin**: Considerable experience in sales, networking, and project/event management. Basically he can’t code but sounds bloody good not doing it.
+All five founding members will serve as directors and owners of Bloingo Games Ltd, taking on the legal responsibilities outlined in the Companies Act 2006, as well as the initial share capital. Leadership will be collaborative, with all major strategic decisions requiring unanimous agreement among the directors.
 
-## **3.2 Financial Plan**
+Bloingo Games Ltd will file annual accounts and confirmation statements with Companies House, ensuring full compliance with statutory requirements.A reserve of shares will be stored for allocation to future collaborators and potential investors, facilitating company growth and talent acquisition as the studio expands.
 
-- **Funding Strategy**:
-    - **Kickstarter/Go fund me**: We will raise £_____ to cover initial development costs.
-    - **Development costs = One of you lot fill in how this could be broken down**. Software, hardware, man hours spent, logo design, IDE optimisation etc
-    - See Hollow Knight as a case study (I’m sure there are other games which have had funding like this) [[https://www.kickstarter.com/projects/11662585/hollow-knight](https://www.kickstarter.com/projects/11662585/hollow-knight)]
-        
-        ![image.png](THE%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%204.png)
-        
-    - **University Grants**: -> Bath Enterprise. Could we secure funding from them? They have money coming out of every orifice. Secure £5,000 from entrepreneurship competitions.
-    - **Pre-Orders**: Generate £____ through Steam Early Access and itch.io pre-orders.
-    - Internal investor: (knows an alumni in Leeds who actively looking for investing in entrepreneur start-ups, happy to shoot her a dm when the business plan is up – not guaranteed but worth a record as an attempt)
+**Organisational Structure**
 
-> I wouldn’t be sure how to estimate pre-orders, would we break it down as part of a sales forecast and then split it by date? (3 options imo, 1. free + DLC, 2. pay-to-play 3. pay-to-play + optional DLCs) option 2 is easier to estimate, option 1 & 3 are slightly more complicated but feasible.
-> 
+Bloingo Games Ltd employs a flat organisational structure that prioritizes agility, creativity, and mutual contribution over traditional hierarchical model values. When leadership is required on certain elements of the game, it is assigned based individual expertise and the project requirements, allowing the team to remain adaptable in the rapidly evolving gaming market.
 
-**decision**: Pay-to-play + optional DLCs. 
+The core team consists of five founding members with complementary skills spanning game design, programming, art direction, sound design, marketing, networking, and sales. This diverse skill set enables Bloingo Games Ltd to handle most development functions in-house during the initial growth phase, reducing dependency on external contractors and maintaining creative control over projects.
 
-- **Sales Forecast**:
-    - Year 1: £500 (200 units sold at £2.50 each).
-    - Year 2: £2,000 (additional 1,000 units plus DLC sales).
-    - Year 3: £5,000 (continued sales plus integrated mobile implementation).
+## **3.2 Launch and Marketing**
 
----
+At launch, creating a strong online presence, engaging with our community and gathering feedback will maximise visibility and player interest while keeping costs efficient (REFERENCE). All of this serves the company’s goal of publishing **Just Snap** on Steam, the largest PC gaming marketplace which has more than 132 million active users each month ([Kumar, 2025](https://www.demandsage.com/steam-statistics)).
 
-## **Appendix**
+Designing a storefront as early as possible, with professional, broadly appealing artwork and product descriptions has been shown to significantly boost sales of games on Steam (REFERENCE). This is largely due to Steam’s ‘wishlist’ feature, which allows users to easily save upcoming games to their wishlist allowing them to be notified upon the game’s release.
 
-**External Support Required**
+High-quality trailers also generate sales (REFERENCE), and will create the opportunity to advertise **Just Snap’s** USP: blending strategic deck-building with rhythmic precision. Heavily featuring videos on the storefront is particularly important for a rhythm game, as it promotes the ‘Great Soundtrack’ created in response to this growing trend in the industry (*reference ourselves – the survey section*).
 
-**QA Testing**
+As this is a clear avenue for boosting the product’s revenue at launch, significant effort is going into these storefront assets, making use of the experienced artists on our team.
 
-- Plan to leverage university connections for playtest sessions
-- Fellow computer science students will be recruited for early testing
+Based on wishlists, Steam titles see roughly a 20% median conversion rate in the first week after release ([Game If You Are](https://gameifyouare.com/2022/12/15/how-many-steam-wishlists-does-my-indie-game-need/), 2022).
 
-**Art & Music – fiverr, freelance, industry connections**
-
-- Contracting freelance artists for key visual assets
-- Collaboration with university music department for soundtrack elements
-
-**Legal Support – anyone know a lawyer?**
-
-- Basic legal guidance through university entrepreneurship resources
-- Accounting services through student-focused accounting programs
-
-### **4.2 Financial Plan**
-
-**Funding Strategy**
-
-**Initial Capital Requirements: £15,000**
-
-- Development hardware and software: £3,000
-- Art and audio assets: £6,000
-- Marketing budget: £3,000
-- Legal and administrative: £1,000
-- Contingency: £2,000
-
-**Funding Sources**
-
-- Founder investment: £2,500 (£500 each team member)
-- University startup grant/competition: £2,500 (application in progress)
-- Kickstarter campaign: £7,500 target
-- Early Access revenue reinvestment: £2,500
-
-**Kickstarter Strategy** We will launch a focused Kickstarter campaign with the following elements:
-
-- Playable demo to demonstrate core gameplay
-- Clear tiered rewards (game access, soundtrack, art book, name in credits)
-- Regular development updates during campaign
-- Stretch goals for additional content and features
-- Leveraging university and local gaming networks to reach initial funding momentum
-
-**Revenue Model**
-
-**Main Game Sales**
-
-- Early Access price: £1.99 – £7.99
-- Full release price: £3.99 - £9.99
-- Expected Year 1 units: 3,000 (realistic estimate for new indie studio)
-
-**Downloadable Content**
-
-- Cosmetic DLC packs: £0.99-3.99
-- No pay-to-win elements or loot boxes
-
-**Break-Even Analysis**
-
-- Break-even point: 1,500 units at full price (£9.99)
-- Expected to reach break-even within 8-10 months post-launch
-
-### **4.3 Tools & Technology**
-
-**Development Tools**
-
-- Unity Game Engine (Cross-platform development): Enable deployment on PC, mobile, or even switch/PS? user-friendly visual editor, resourceful asset store
-- FMOD (Audio implementation): high-quality, *polished audio, vital for rhythm mechanics, smooth integration with Unity (is expected).*
-- GitHub (Version control): A medium allowing the team to track code changes, can bring up something like version control/ issue tracker for task organisations.
-- Trello (Project management): Enable visually breaking down development tasks into manageable steps
-- University resources for testing equipment: *need some help here*
-
-**Marketing Tools**
-
-- Discord (Community management)
-- MailChimp (Email marketing)
-- University networks and gaming societies
-- Local gaming meetups and events
-- Student-focused indie game showcases
-
-**Sales Platforms**
-
-- Steam (Primary PC platform)
-- [itch.io](http://itch.io/) (Indie-focused platform)
-- Potential university incubator showcase opportunities
-
-### **4.4 Risk Assessment & Mitigation**
-
-| **Likelihood** | Impact Level |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | **Insignificant(1)** | **Minor(2)** | **Moderate(3)** | **Major(4)** | **Catastrophic(5)** |
-| **Almost certain(5)** | Moderate (5) | High (10) | High (15) | **Catastrophic (20)** | **Catastrophic (25)** |
-| **Likely (4)** | Moderate (4) | Moderate (8) | High (12) | **Catastrophic (16)** | **Catastrophic (20)** |
-| **Possible (3)** | Low(3) | Moderate (6) | Moderate (9) | High (12) | High (15) |
-| **Unlikely (2)** | Low(2) | Moderate (4) | Moderate (6) | Moderate (8) | High (10) |
-| **Rare (1)** | Low(1) | Low(2) | Low(3) | Moderate (4) | Moderate (5) |
-
-| Task Step | Likelihood | Impact Level | Integrated Risk | Actions to minimise risk |
+| ***Wishlists:*** | ***500*** | ***1000*** | ***2000*** | ***4000*** |
 | --- | --- | --- | --- | --- |
-| **Technical challenges integrating rhythm and card mechanics** | 3 | 4 | High (12) | Early prototyping,
-leverage Unity experience. |
-| **Limited resources extending development timeline** |  |  |  |  |
-| **Team time constraints due to academic commitments** |  |  |  |  |
-| **Oversaturation of indie game market** |  |  |  |  |
-| **Poor reception from core audience** |  |  |  |  |
-| **Financial Risks** |  |  |  |  |
-| **Unexpected development costs** |  |  |  |  |
-| Insufficient projected sales |  |  |  |  |
+| *Min Converted Sales (10%):* | *50* | *100* | *200* | *400* |
+| *Max Converted Sales (20%):* | *100* | *200* | *400* | *800* |
+| *Expected Revenue (**£)**:* | *225* | *671* | *1341* | *2682* |
 
-**Development Risks**
+Given these metrics, our projected revenue from wishlist conversion would range from £1,600 to £6,400.
 
-**Risk: Technical challenges integrating rhythm and card mechanics**
+Further to this, outlets for community outreach such as social media posts and online outreach are vital for increasing engagement with the store page ([Big Games Machine, 2025](https://www.biggamesmachine.com/steam-next-fest-marketing-strategies/)).
 
-- Probability: Medium
-- Impact: High
-- Mitigation: Early prototyping phase focused specifically on this integration; leverage team's Unity experience
+Posting clips of the game on influential platforms such as TikTok – with its 1.9 billion users ([SEO AI, 2025](https://seo.ai/blog/how-many-users-on-tiktok#:~:text=TikTok%20Key%20Statistics-,TikTok%20has%201%2C925%20billion%20users%20globally%2C%20with%20170%20million%20monthly,with%20billions%20of%20views%20each).) – will promote sales, and the creation of a Discord server, anchoring our community by providing them with development updates and garnering their input, is a strategy that has been successfully executed by Supergiant Games with *Hades* ([Why Hades was a Success, 2024](https://benjaminglover.substack.com/p/why-hades-was-a-success)). Additionally, building partnerships with influencers, particularly those that specialise in the roguelike deckbuilder and rhythm genres, will accelerate exposure ([Mega Cat Studios, 2024](https://megacatstudios.com/blogs/game-development/mastering-influencer-marketing-game-developers-guide?srsltid=AfmBOoqiw6bLw1IRR79j1ZyI5X_zwvM1ETf9gqCKxOlHk8BnrsNDyKKg)).
 
-**Risk: Limited resources extending development timeline**
+In addition to these online strategies, generating word-of-mouth buzz at in-person events is vital for a game’s public awareness on release (REFERENCE). Our team will attend fairs at the University of Bath, including [the monthly Bath Video Game Society LAN sessions](https://www.thesubath.com/bvgs/). Indie games meetups in Bristol, including the [Bristol Indie Developers](https://www.meetup.com/bristol-indie-developers/) sessions, and larger conventions in London such as EGX (REFERENCE) will allow us to build a local following. Furthermore, the [Bristol Games Hub](https://bristol.games/#meetups) will provide easy access to other regular local networking events and communities centred around game development, such as the [BGH Antisocial Meetup](https://www.meetup.com/bristolgameshub/).
 
-- Probability: High
-- Impact: Medium
-- Mitigation: Clearly defined MVP features; regular scope review meetings; modular design allowing features to be prioritized
+Using this local following, it will be possible to host in-person play testing events pre-release, allowing for the collection of customer feedback and evaluation of our core gaming mechanics. (*should expand on this probably)*
 
-**Risk: Team time constraints due to academic commitments**
+## **3.3 Funding Strategy**
 
-- Probability: High
-- Impact: Medium
-- Mitigation: Realistic scheduling aligned with academic calendar; clear division of responsibilities; buffer time in development schedule
+Our team will be using a combination of crowdfunding, grants and personal investments to finance the project beyond development. With marketing being our most significant variable expense, financial surplus can be directed towards maximising publicity and outreach. Once the product is ready, additional income will translate directly into scaling sales.
 
-**Market Risks**
+**Sources of Funding:**
 
-**Risk: Oversaturation of indie game market**
+| Crowdfunding | Kickstarter | 4,000 | A platform which has successfully crowdfunded countless other indie video games of similar scope. Our analysis of other projects on the platform suggests that this is a reasonable target figure. |
+| --- | --- | --- | --- |
+| Grants | University Grants | 5,000 | A winning pitch to the Bath Enterprise entrepreneurship program would secure a £5,000 investment. |
+|  | Transfuzer Grants | 7,500 | Transfuzer offer grants to support prototype development for startup game dev studios. |
+|  | UKGTF Grant | 2,000 | UKGTF Indie Game Development £2,000 grant applications open soon. |
+|  | UK Games Fund | 5,000 | Grant applications open from June. |
 
-- Probability: High
-- Impact: Medium
-- Mitigation: Strong differentiation through unique genre combination; targeted marketing to specific player communities
+Whilst grant applications are low effort, they also have low chance of success due to the large number of competitors. Kickstarter on the other hand allows us to leverage the undersupplied niche we are targeting with our game, drawing on the power of community and loyalty to generate funding. As a result, we treat our Kickstarter campaign as our primary and most likely source of external funding. 
 
-**Risk: Poor reception from core audience**
+### **Kickstarter Breakdown**
 
-- Probability: Medium
-- Impact: High
-- Mitigation: Early access period for feedback; extensive playtesting with target demographics; agile development approach to address concerns
+Many such projects are successful (examples?), and there are notable examples of runaway hits on the indie market, such as [Hollow Knight](https://www.kickstarter.com/projects/11662585/hollow-knight), that demonstrate the potential for community-backed funding. In fact, [most successful game Kickstarter campaigns aim for under $10,000](https://www.kickstarter.com/help/stats).
 
-**Risk: Limited marketing reach due to budget constraints**
+Our Kickstarter funding target is: £4,000.
 
-- Probability: High
-- Impact: Medium
-- Mitigation: Focus on organic growth and community building; leveraging university networks; targeted outreach to niche streamers and content creators
+[Ongoing Kickstarter Campaigns Analysis](Appendix/Ongoing%20Kickstarter%20Campaigns%20Analysis%201bde964524c58006ae1dee0895ddf4e2.md)
 
-**Financial Risks**
+**Kickstarter Tier Model**
 
-**Risk: Failure to reach Kickstarter funding goal**
+| **Tier** | **Price (£)** | **Rewards** | **Est. Backers** | **Revenue (£)** |
+| --- | --- | --- | --- | --- |
+| **Bloingo Fan** | £5 | Digital copy of the game, name in credits, backer updates | 125 | £625 |
+| **Bloingo Knight** | £10 | All of the above + Discord access | 175 | £1,750 |
+| **Bloingo Master** | £20 | All of the above + Soundtrack, beta access, exclusive card back | 50 | £1,000 |
+| **Bloingo King** | £35 | All of the above + Digital art book, name a card | 12 | £420 |
+| **Bloingo Overlord** | £50 | All of the above + Help design a card, dev chat, exclusive Bloingo t-shirt | 5 | £250 |
+| **Total** |  |  | **367 backers** | **£4,045** |
 
-- Probability: Medium
-- Impact: High
-- Mitigation: Prepare tiered development plan that can adjust to available funding; have backup funding sources identified; build community interest before launch
+**Projected Net Kickstarter Revenue After Fees: £3,720**
 
-**Risk: Lower than projected sales**
+Kickstarter takes 5% platform fee, plus 3-5% payment processing fee (~8% total).
 
-- Probability: Medium
-- Impact: High
-- Mitigation: Conservative financial projections; minimal fixed expenses; bootstrap approach to development
+## 3.4 Cost Analysis and Revenue Strategy
 
-**Risk: Unexpected development costs**
+### Pricing Model
 
-- Probability: Medium
-- Impact: Medium
-- Mitigation: 15% contingency buffer in budget; phased development approach; leveraging university resources where possible
+Analysing game pricing for games similar in scope, style and quality we found the most popular price to be between £8 and £9. 
 
-**Contingency Plans**
+Steam’s automatic price conversion for games priced at $9.99 is explained [here](https://steamdb.info/blog/valve-price-matrix-2022-update/). Using this information we arrived at the price points shown in the table below.
 
-**Worst-Case Scenario: Project significantly behind schedule/over budget**
+| **Revenue Breakdown** | **Value (UK)** | **Value (USA)** |
+| --- | --- | --- |
+| Price | £7.99 | £9.99 |
+| VAT (20%) | £-1.60 | £-2.00 |
+| Steam Fee (30% after VAT) | £-1.92 | £-2.40 |
+| **Gross Revenue per Sale** | **£4.47** | **£5.59** |
 
-- Release smaller initial version with core gameplay loop
-- Focus on one platform initially (PC) and delay others
-- Leverage university resources for additional support
+Setting the price between **£5–£15**  aligns with industry norms for indie titles with less than 10 hours of content ([GameDev Subreddit, 2025](https://www.reddit.com/r/gamedev/comments/jancdd/what_was_your_indie_game_pricing_strategy/)) with the [average price for indie games](https://howtomarketagame.com/2022/08/17/are-indie-games-too-cheap/) being £5.60 as of 2022.
 
-**Worst-Case Scenario: Game underperforms commercially**
+As our game has been designed for well over 10 hours of replayability in mind, we feel £7.99 is an appropriate price for our product.
 
-- Pivot to more frequent, smaller content updates to build community
-- Use as portfolio piece to secure industry positions
-- Apply learnings to more focused second project
+### Sales Revenue Projections
 
-## **5. Contribution Split**
+We simulated our first game’s sales curves based on Steam game review graphs available on their store pages. To keep our projections realistic, we hand-picked a selection of 5 games similar in scope, style and theme, and considered three scenarios:
 
-| **Team Member** | **Role** | **Equity Percentage** | **Responsibilities** |
+**Conservative scenario:** 2,000 total sales before 2027
+
+**Expected scenario:** 7,000 total sales before 2027
+
+**Optimistic scenario:** 20,000 total sales before 2027
+
+![image.png](Appendix/image%204.png)
+
+After a discussion within the team, we found that on average, members valued their labour at a rate of $60 per hour. After taking into account how much of this amount we would be happy to treat as investments into the company, and the value we retain from ownership of the company itself, we arrived at the conclusion that generating revenue surpassing $10 per hour from our first game could be treated as a success.
+
+We used this rate together with an assumed average of 11 hours of work per member per week to create the reference revenue threshold on the graph above. All revenue earned above this threshold will be treated as profit that will be used for reinvestment back into the company and its projects.
+
+### Initial & Operational Costs ****
+
+| **Category** | **Item** | **Minimum Cost** | **Maximum Cost** | **Notes** |
+| --- | --- | --- | --- | --- |
+| Development Tools & Assets | Godot Game Engine | £0.00 | £0.00 | Free & open source game engine. |
+|  | FMOD Audio Engine | £0.00 | £0.00 | free license under $600 revenue |
+|  | Adobe CC | £10.00 | £10.00 | Essential for asset creation. |
+|  | Aseprite | £0.00 | £20.00 | FOSS - if we build it ourselves their license permits us to use it for commercial purposes |
+|  |  Ableton | £69.00 | £69.00 | Music production software license |
+|  | Asset store purchases | £0.00 | £200.00 | Sometimes the cost of making assets yourself is greater than the price of already made assets available for purchase on an asset store |
+| Marketing & Community | Social media Ads  *(Fb, IG, Twitter, etc...)* | £0.00 | £300.00 | Social media ads get pretty expensive before they're worthwhile. Maybe we should leave it. |
+|  | Influencer / Streamer Outreach | £0.00 | £250.00 | The meaning of 'influencer' can be broad. A small-timer or local might settle for a free Steam key |
+|  | Domain Name *(Bloingo.com)* | £10.00 | £10.00 |  |
+|  | Incentives *(eg. playtesting, surveys)* | £0 | £200.00 | Survey participants were entered into a draw cappuccinos, and events might provide snacks, etc. |
+| Setup & Legal | Steam Direct | £0 | £80.00 | $100 per game or free if we manage to publish via Robert’s  |
+|  | Companies House | £0.00 | £50.00 | If we were to register it as a sole proprietorship, costs are 0. A limited company comes with a 50gbp fee. |
+|  | Trademarking | £0.00 | £1,000.00 | Trademarks may not be necessary, but if we choose to get them, they'll be expensive |
+| Multiplayer Infrastructure | Game Servers *(AWS, Azure)* | £0.00 | £20.00 | PAYG, region dependant - the basic AWS models start at something like 4p/hr. P2P would defer this cost (ie. clients share timestamps for local comparison) |
+|  | Database Storage *(Player Accounts, Stats, Leaderboard, etc.)* | £0.00 | £200.00 | Firebase - [(link)](https://firebase.google.com/pricing) - free up to 5Gb/month, then around 10p/Gb/month |
+| **TOTAL** |  | **£94.00** | **£2,409.00** |  |
+|  |  |  |  |  |
+
+**Total Estimated Development Cost**
+
+After reviewing the minimum and maximum potential expenses outlined, we anticipate spending £2,000 overall. This figure assumes in-house asset production, a lean marketing campaign, basic legal registration, and mitigated server costs. Developer salaries are not included. If additional grants are obtained or our Kickstarter targets exceeded, further funds will be put towards marketing to maximise growth.
+
+Our ROI calculations also assume £2,000 as the baseline.
+
+### **Return on Investment Projections, by 2027**
+
+Based on comparable indie game performance metrics and our conservative sales estimates:
+
+| **Scenario** | **Unit Sales** | **Revenue (£)** | **Profit (£)** | **ROI** |
+| --- | --- | --- | --- | --- |
+| Conservative | 2,000 | £8,940 | £6,940  | 347% |
+| Expected | 7,000 | £31,290 | £29,290 | 1,465% |
+| Optimistic | 20,000 | £89,400 | £87,400   | 4,370% |
+
+These projections account for Steam's 30% platform fee and £7.99 price point, but for simplicity assume no additional marketing expenditure beyond initial budget or further revenue streams such as DLC release.
+
+## **3.5 Risk Assessment and Mitigation**
+
+## Development Risks
+
+| Risk | Severity | Mitigation Actions |
+| --- | --- | --- |
+| Technical challenges integrating rhythm and card mechanics | High | Early prototyping and leveraging development experience to identify and resolve technical issues early. |
+| Limited resources extending development timeline | Moderate | Clearly defining MVP features, conducting regular scope review meetings, and using a modular design approach to allow for flexible development. |
+| Team time constraints due to academic commitments | High | Establishing a realistic and clear division of responsibilities aligned with academic calendars to ensure manageable workloads. |
+
+## Market Risks
+
+| Risk | Severity | Mitigation Actions |
+| --- | --- | --- |
+| Oversaturation of the indie game market | Very High | Ensuring strong differentiation through a unique genre combination and conducting targeted marketing to specific player demographics and communities. |
+| Negative reception from the core audience | High | Running an early access period for player feedback, conducting extensive playtesting with target populations, and using an agile development approach to address user concerns. |
+| Limited marketing reach due to budget constraints | High | Initially focusing on building strong, small communities and then expanding outreach to content creators, university networks, and events once the game establishes a strong reputation. |
+
+## Financial Risks
+
+| Risk | Severity | Mitigation Actions |
+| --- | --- | --- |
+| Unexpected development costs | High | Following a phased development approach with a tiered structure to align with available budget. Leveraging university resources to reduce costs. Considering the need for a buffer in case of budget overruns. |
+| Insufficient projected sales | High | Keeping initial development costs low, using conservative financial projections, and adopting a bootstrapped approach to sustain development. |
+| Failure to reach the Kickstarter funding goal | Medium | Preparing a tiered development plan that adjusts to different funding levels. Identifying alternative funding sources such as grants, schemes, and charitable organisations. |
+
+## 3.6 Reinvestment and Scaling Strategy
+
+**Stretch Goals:**
+
+- **£3,000** – Add a new themed deck (e.g., Wizards) + 3 new soundtracks
+- **£5,000** – 6 additional soundtracks, 3 new card themes, and special celebratory DLC for all players
+- **£10,000** – Mobile version (iOS/Android) releases, chance to meet the developers at a gaming convention, plus a potential Nintendo Switch port depending on feedback.
+
+## **4. Contribution Split**
+
+| **Team Member** | **Role** | **Split** | **Responsibilities** |
 | --- | --- | --- | --- |
 | Robert | Technical Lead | 20% | Game architecture, core systems, technical implementation |
 | Chris | Game Design Lead | 20% | Game design, balancing, player experience |
@@ -549,39 +478,10 @@ leverage Unity experience. |
 | Plato | Data & Analytics Lead | 20% | User testing, data analysis, marketing |
 | Francis | Business & Community Lead | 20% | Project management, marketing, community engagement |
 
-## **6. Appendix**
+## Shit To Delete or Incorporate:
 
-**6.1 Market Research Data**
+[Risk and Mitigation - text variant](Appendix/Risk%20and%20Mitigation%20-%20text%20variant%201bde964524c5807f8adfdea5aceeeafc.md)
 
-- Survey methodology and results from university coding and computer science societies
-- Interview insights from domestic and Swedish game developers (including Fatshark Studios)
-- Competitive analysis methodology
-- Industry growth statistics and sources
+[Random shit that spawned in our text](Appendix/Random%20shit%20that%20spawned%20in%20our%20text%201bde964524c5808da7ecff1376a663d0.md)
 
-**6.2 Game Design Documents**
-
-- Core gameplay loop diagrams
-- Card system design documentation
-- Rhythm mechanics technical specifications
-- Progression system models
-
-**6.3 Visual Assets**
-
-- Concept art
-- UI mockups
-- Logo and branding guidelines
-- Character designs
-
-**6.4 Financial Documentation**
-
-- Detailed budget breakdown
-- Cash flow projections
-- Kickstarter campaign structure and reward tiers
-
-**6.5 Legal Documentation**
-
-- Company registration details
-- Intellectual property protection strategy
-- Team agreements
-
----
+[Legacy financial documentation shit](Appendix/Legacy%20financial%20documentation%20shit%201bde964524c580369226c3b61daaf6c1.md)
