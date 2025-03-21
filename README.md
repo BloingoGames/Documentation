@@ -72,13 +72,27 @@ The simplicity of *Snap* opens up possibilities for unique gameplay mechanics (R
 
 As of Q1 2025, the global video game industry is worth **£180B**[¹](https://www.investopedia.com/global-video-game-market-could-double-in-10-years-report-says-8712136), with indie games seeing exponential growth, having a market value of **£4B** [²](https://www.mordorintelligence.com/industry-reports/indie-game-market)
 
+## **2.1 Video Game Customer Segmentation**
+
+The global gaming market is currently valued at $282 billion and projected to reach [$363 billion by 2027](https://explodingtopics.com/blog/number-of-gamers#how-many-gamers-are-there-editors-picks). The UK stands out within this sector, having the largest video gaming audience in Europe [], where gaming is now a mainstream entertainment option [across diverse demographics](https://www.statista.com/forecasts/448421/gamers-in-european-countries). Over half of the UK population currently plays video games, [with 63% engaging in online gaming](https://www.statista.com/statistics/301331/online-gaming-in-the-uk/). 
+
+The number of video game users in the UK is projected to increase from 37.7 million in 2024 to approximately 59 million [by 2029](https://www.statista.com/forecasts/1402973/video-gamers-in-uk), supported by one of the highest video game user penetration rates globally at 58% - expected to rise to 70% by 2027, making it the market with the highest [proportion of gamers to overall population](https://www.statista.com/topics/8281/video-gamer-demographics-in-the-united-kingdom-uk/) worldwide.
+
+**UK Adults between 30-39** 
+
+Representing nearly 30% of the gaming market, with balanced gender distribution (53% male versus 47% female) and higher median income allowing for some leeway in setting our initial price point.
+
+**18-24 year old online multiplayer players**
+
+A largely online customer base allows for 80% of this age group play online multiplayer games, mostly male.
+
 The most prominent recent success story being **Balatro**, a game combining poker with roguelike mechanics, which won **"Best Independent Game"** at The Game Awards 2024 and sold over 500,000 copies within the first three months.
 
 Just Snap aims to capitalise on the visibility of such successful titles in the niche with its a blend of superb music and satisfying gameplay allowing it to further stand out from them. 
 
 Our research indicates a clear demand for engaging, skill-based card games with high replayability, and our competitive analysis confirms that no existing game fully explores the intersection between card strategy and rhythm mechanics.
 
-## **2.1 Market Research & Validation**
+## **2.2 Market Research & Validation**
 
 Our research strategy combines quantitative and qualitative approaches:
 
@@ -99,7 +113,7 @@ We spoke to specialists in the indie video games industry and have received help
 
 “Bloingo Game’s concept of a game based on traditional card game mechanics with added rhythm elements seems like a sound first project for a new studio. Selecting a mechanics-heavy, asset-light deliverable is a strategic choice for a technical team. The integration of proven game mechanics with roguelike elements minimises the risk of the team getting stuck finding the fun while still offering solid replayability without the need to handcraft a lot of content.
 
-Current generation examples like Slay the Spire, and more recently, Balatro lend weight to this approach - both succeeded by innovating within established card game frameworks adding fun and replayable gameplay without needing an extensive library of assets or narrative elements.
+Current generation examples like Slay the Spire, and more recently, Balatro lend weight to this approach - both succeeded by innovating within established card game frameworks adding fun and replayable gameplay without needing an extensive library of assets or narrative elements.**6.6 Limitations and Constraints**
 The selection of Godot as the development engine is a prudent technical decision. Using an established game engine lets the team stand up a prototype quickly and spend time iterating on their game’s unique mechanics. It also makes it easier to scale the team later during production if needed. The choice of Godot fits the game genre well and sidesteps Unity’s recent business model instability which would be a significant risk factor for a startup.” 
 
 In light of Fyreflight’s recommendations, we also looked at games who haven’t performed so well, despite having an idea that seemed promising, or even gameplay which looked engaging, to see where they fell short on their projects. Some things we were able to establish: 
@@ -224,42 +238,28 @@ While our idea is completely unique (as no games currently exist that combine th
 
 | **Strengths**:
 
-• Established player base in rhythm-roguelike space.
-• Successful implementation of lore.
-• Strong brand recognition.
-• Proven core mechanics.
-• Excellent, innovative gameplay | **Weaknesses**:
+- Established player base in rhythm-roguelike space.
+- Successful implementation of lore.
+- Strong brand recognition.
+- Proven core mechanics.
+- Excellent, innovative gameplay. | **Weaknesses**:
 
-• Limited strategic depth.
-• Aging visual design. Is its aesthetic dated or fashionable?
-• Less satisfying progression system. |
+- Limited strategic depth.
+- Aging visual design. Is its aesthetic dated or fashionable?
+- Less satisfying progression system. |
 | --- | --- |
 | **Opportunities**:
 
-• Players seeking deeper strategic elements.
-• Can create a more profound lore and universe.
-• Can relate our game to something people know and love.
-• Collaboration, endorsement, sponsorship (local companies, brands, advertising).
+- Players seeking deeper strategic elements.
+- Can create a more profound lore and universe.
+- Can relate our game to something people know and love.
+- Collaboration, endorsement, sponsorship (local companies, brands, advertising).
  | **Threats**:
 
-• Brand loyalty among existing players.
-• Budget is far superior to ours
-• Movement is logically combined with rhythm.
-• Possible sequel development. |
-
-### **2.3 Video Game Customer Segmentation**
-
-The global gaming market is currently valued at $282 billion and projected to reach [$ 363 billion by 2027](https://explodingtopics.com/blog/number-of-gamers#how-many-gamers-are-there-editors-picks). The UK stands out within this sector, having the largest video gaming audience in Europe [], where gaming is now a mainstream entertainment option [across diverse demographics](https://www.statista.com/forecasts/448421/gamers-in-european-countries). Over half of the UK population currently plays video games, [with 63% engaging in online gaming](https://www.statista.com/statistics/301331/online-gaming-in-the-uk/). 
-
-The number of video game users in the UK is projected to increase from 37.7 million in 2024 to approximately 59 million [by 2029](https://www.statista.com/forecasts/1402973/video-gamers-in-uk), supported by one of the highest video game user penetration rates globally at 58% - expected to rise to 70% by 2027, making it the market with the highest [proportion of gamers to overall population](https://www.statista.com/topics/8281/video-gamer-demographics-in-the-united-kingdom-uk/) worldwide.
-
-**UK Adults between 30-39** 
-
-Representing nearly 30% of the gaming market, with balanced gender distribution (53% male versus 47% female) and higher median income allowing for some leeway in setting our initial price point.
-
-**18-24 year old online multiplayer players**
-
-A largely online customer base allows for 80% of this age group play online multiplayer games, mostly male.
+- Brand loyalty among existing players.
+- Budget is far superior to ours
+- Movement is logically combined with rhythm.
+- Possible sequel development. |
 
 # **3. Strategy**
 
@@ -477,6 +477,26 @@ These projections account for Steam's 30% platform fee and £7.99 price point, b
 | Jake | Development Lead | 20% | Feature implementation, UI programming, QA |
 | Plato | Data & Analytics Lead | 20% | User testing, data analysis, marketing |
 | Francis | Business & Community Lead | 20% | Project management, marketing, community engagement |
+
+## **6.4 Financial Documentation - *I think this will go in 3.3***
+
+ a financially sound approach for bringing "Just Snap" to the market with risk being minimised and giving it great potential for return on investment
+
+This funding strategy presents a financially sound approach for bringing "Just Snap" to the market with risk being minimised and giving it great potential for return on investment.
+
+By leveraging our team's existing expertise, university resources, and the demonstrated  interest in a game combining card and rhythm elements, we believe Bloingo Games represents an attractive investment opportunity.
+
+**6.6 Limitations and Constraints**
+
+1. **Early Store Page:**
+    - Create a steam store page as soon as possible, with high quality production grade marketing material
+    - Appeal to Steam’s recommendation algorithm by garnering ‘Wishlist’ subscriptions prior to release.
+2. **Live playtesting event**:
+    - Invite others to play the game in its MVP state 2 weeks prior to release, noting direct feedback on our product.
+    - Keep in touch with attendees by providing weekly updates based on community feedback, email and Discord notifications, as well as directing them to our other socials.
+    - Focus on building a dedicated player community with a dedicated Discord server, Instagram and TikTok channels.
+
+**6.6 Limitations and Constraints**
 
 ## Shit To Delete or Incorporate:
 
