@@ -1,6 +1,6 @@
 # Bloingo Games Business Plan
 
-![image.png](Appendix/image.png)
+![image.png](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image.png)
 
 # **1. Product**
 
@@ -38,7 +38,7 @@ Just Snap overcomes these challenges by combining the strategic, but easy to pic
 
 ## **1.3 Our Solution “Just Snap”**
 
-<img src="Appendix/image%201.png" alt="Just Snap" width="300"/>
+![image.png](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%201.png)
 
 Just Snap is a multiplayer card-rhythm game where players can build powerful decks of cards containing special abilities. Loosely based on the traditional card game ‘Snap’, it is easy to learn, but challenging to master with its complex combinations of cards and precise musically-timed moves.
 
@@ -139,7 +139,7 @@ This data solidified our choice of video game idea, revealing a trend towards mu
 
 **Cumulative Revenue per Game per Tag | Under £10**
 
-![image.png](Appendix/image%202.png)
+![image.png](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%202.png)
 
 ### **Survey Insights**
 
@@ -149,27 +149,27 @@ From our survey of 20 respondents, here are the key findings:
 
 **Skill Over Luck**: 85% want a card-based game that requires deeper strategy and less randomness and luck-based mechanics
 
-![image.webp](Appendix/image.webp)
+![image.webp](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image.webp)
 
 **A Focus on Gameplay**: Only 20% reported interest in story and worldbuilding as compared to an overwhelming majority in various aspects of gameplay. When pressed further, 40% said they “don’t really care about story in deckbuilders,” and 25% specifically that they “prefer games to be more focused on mechanics”.
 
-![image.webp](Appendix/image%201.webp)
+![image.webp](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%201.webp)
 
 **Looks Matter**: Around half of respondents care about the aesthetic value of their games beyond the gameplay itself. With the “retro” tag trending in the charts, this gives a clear artistic direction to the project, and our team’s in-house artistic expertise allows us pull it off convincingly and at low cost.
 
-![image.webp](Appendix/image%202.webp)
+![image.webp](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%202.webp)
 
 **Multiplayer is Essential:** In addition to a compelling Steam data trend in games tagged as ‘*multiplayer*’, our respondents made it clear that they would much rather play with others than alone. When asked specifically about this, a resounding 85% would find “being able to play a game like this with friends/family” appealing.
 
-![image.webp](Appendix/image%203.webp)
+![image.webp](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%203.webp)
 
 **Gameplay Balance:** While the vote for strategic and skill-based gameplay is unanimous, around half of players insist on the incorporation of random and unexpected gameplay elements to keep them on their toes. Only a small minority asked for “minimal randomness.”
 
-![image.webp](Appendix/image%204.webp)
+![image.webp](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%204.webp)
 
 **Replay Value:** When voting on the features that would make our game stand out, “high replayability and unlockable content” came in first with 65% of responses. For a deckbuilder game, this lends itself well to a monetisation model that includes regular paid downloadable content (DLC) releases to keep things novel for players.
 
-![image.png](Appendix/image%203.png)
+![image.png](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%203.png)
 
 ---
 
@@ -255,7 +255,7 @@ The core team consists of five founding members with complementary skills spanni
 
 ## **3.3 Launch and Marketing**
 
-![Copy of bloingo launch timeline.png](Appendix/Copy_of_bloingo_launch_timeline.png)
+![Copy of bloingo launch timeline.png](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/Copy_of_bloingo_launch_timeline.png)
 
 At launch, we’ll be creating a strong online presence through engaging with our social channels frequently, interacting with our community through discord and and gathering feedback will maximise visibility and elevate customer satisfaction ([Why Hades was a Success, 2024)](https://benjaminglover.substack.com/p/why-hades-was-a-success). Doing this will facilitate our goal of publishing **Just Snap** on Steam, the largest PC gaming marketplace, having more than 132 million active users each month ([Kumar, 2025](https://www.demandsage.com/steam-statistics)).
 
@@ -314,7 +314,7 @@ Whilst grant applications are low effort, they also have low chance of success d
 
 ### **Kickstarter**
 
-Many such projects are successful, and there are notable examples of runaway hits on the indie market, such as [Hollow Knight](https://www.kickstarter.com/projects/11662585/hollow-knight), that demonstrate the potential for community-backed funding. In fact, [most successful game Kickstarter campaigns aim for under $10,000](https://www.kickstarter.com/help/stats). With this in mind, we have created Kickstarter funding milestones, based on a review of ongoing Kickstarter projects of similar scope, linked [here](Appendix.md). 
+Many such projects are successful, and there are notable examples of runaway hits on the indie market, such as [Hollow Knight](https://www.kickstarter.com/projects/11662585/hollow-knight), that demonstrate the potential for community-backed funding. In fact, [most successful game Kickstarter campaigns aim for under $10,000](https://www.kickstarter.com/help/stats). With this in mind, we have created Kickstarter funding milestones, based on a review of ongoing Kickstarter projects of similar scope, linked [here](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0.md). 
 
 **Stretch Goals:**
 
@@ -399,7 +399,7 @@ We simulated our first game’s sales curves based on Steam game review graphs a
 
 **Optimistic scenario:** 20,000 total sales before 2027
 
-![image.png](Appendix/image%204.png)
+![image.png](Bloingo%20Games%20Business%20Plan%201b5e964524c58048a27fce3ad5f22ca0/image%204.png)
 
 ### **Return on Investment Projections, by 2027**
 
