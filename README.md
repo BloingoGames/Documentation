@@ -238,28 +238,28 @@ While our idea is completely unique (as no games currently exist that combine th
 
 | **Strengths**:
 
-- Established player base in rhythm-roguelike space.
-- Successful implementation of lore.
-- Strong brand recognition.
-- Proven core mechanics.
-- Excellent, innovative gameplay. | **Weaknesses**:
+Established player base in rhythm-roguelike space.
+Successful implementation of lore.
+Strong brand recognition.
+Proven core mechanics.
+Excellent, innovative gameplay. | **Weaknesses**:
 
-- Limited strategic depth.
-- Aging visual design. Is its aesthetic dated or fashionable?
-- Less satisfying progression system. |
+Limited strategic depth.
+Aging visual design. Is its aesthetic dated or fashionable?
+Less satisfying progression system. |
 | --- | --- |
 | **Opportunities**:
 
-- Players seeking deeper strategic elements.
-- Can create a more profound lore and universe.
-- Can relate our game to something people know and love.
-- Collaboration, endorsement, sponsorship (local companies, brands, advertising).
+Players seeking deeper strategic elements.
+Can create a more profound lore and universe.
+Can relate our game to something people know and love.
+Collaboration, endorsement, sponsorship (local companies, brands, advertising).
  | **Threats**:
 
-- Brand loyalty among existing players.
-- Budget is far superior to ours
-- Movement is logically combined with rhythm.
-- Possible sequel development. |
+Brand loyalty among existing players.
+Budget is far superior to ours
+Movement is logically combined with rhythm.
+Possible sequel development. |
 
 # **3. Strategy**
 
