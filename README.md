@@ -181,47 +181,33 @@ While our idea is novel, with no games currently existing that combine the card 
 
  Everhood 2 is a unique rhythm game with a particular focus on narrative: though poorly executed according to reviews.
 
-| **Strengths:** | **Weaknesses**: |
-| --- | --- |
-| • Unique concept combining RPG and rhythm mechanics
-• Rich worldbuilding due to variety in characters and environments. | • Confusing narrative - disjointed story telling (supported by reviewers)
-• Music lacks variety
-• Rhythm mechanics are repetitive
- |
-| **Opportunities**: |  |
-| • Demand for diverse soundtrack, as seen in Steam’s ‘Great Soundtrack’ tag trend
-• Players seeking simpler, engaging narratives over complex lore  | • Longer development time means this game has a much greater scope than Just Snap can afford
-• Characters and art are impressive and distinctive. Could be more attention-grabbing
- |
+| **Strengths** | **Weaknesses** |
+| :-- | :-- |
+| • Unique concept combining RPG and rhythm mechanics<br>• Rich worldbuilding due to variety in characters and environments | • Confusing narrative – disjointed storytelling *(supported by reviewers)*<br>• Music lacks variety<br>• Rhythm mechanics are repetitive |
+| **Opportunities** | **Threats** |
+| • Demand for diverse soundtrack, as seen in Steam’s ‘Great Soundtrack’ tag trend<br>• Players seeking simpler, engaging narratives over complex lore | • Longer development time means this game has a much greater scope than *Just Snap* can afford<br>• Characters and art are impressive and distinctive — could be more attention-grabbing |
+
 
 ### RODB: Rhythm of Deck Builder
 
 This is a currently unreleased game, with no published release date, which shares a genre with our own. However, it looks to be very low-quality and specifically targeted to the ‘anime’ market.
 
-| **Strengths:** | **Weaknesses**: |
-| --- | --- |
-| • Taps in to the deck building and rhythm genres, similarly to Just Snap
-• Capitalises on anime themes which have a large following. | • Weak gameplay with low quality art and music
-• Does not tap into nostalgia genre
-• Lacks multiplayer support. |
-| **Opportunities**: | **Threats**: |
-| • Allows us to distinguish our product by comparison with higher quality music and more engaging multiplayer gameplay.
-• Opportunity for converting followers over to our game.
-• No release date as of yet: we can beat them to market. | • Game is being released in a similar timeframe to ours. Serves as a direct competitor to our game albeit low quality. Could satisfy a portion of our potential customer base enough to dissuade them from buying our game. |
+| **Strengths** | **Weaknesses** |
+| :-- | :-- |
+| • Taps into the deck-building and rhythm genres, similarly to *Just Snap*<br>• Capitalises on anime themes which have a large following | • Weak gameplay with low-quality art and music<br>• Does not tap into nostalgia genre<br>• Lacks multiplayer support |
+| **Opportunities** | **Threats** |
+| • Allows us to distinguish our product by comparison with higher-quality music and more engaging multiplayer gameplay<br>• Opportunity for converting followers over to our game<br>• No release date yet — we can beat them to market | • Game is being released in a similar timeframe to ours<br>• Serves as a direct competitor — albeit low quality — and could satisfy a portion of our potential customer base enough to dissuade them from buying our game |
+
 
 ### Balatro
 
 Released in 2024, Balatro saw significant commercial success ([Clement, 2025](https://www.statista.com/statistics/1546856/balatro-global-unit-sales/)), entering the roguelike deckbuilder genre with a unique take on the classic casino game *Poker*.
 
-| **Strengths:** | **Weaknesses:** |
-| --- | --- |
-| • Commercially successful, large existing playerbase
-• Unique approach to skill progression | • Lacks multiplayer support.
-• Minimal/nonexistent focus on story or worldbuilding |
-| **Opportunities**: | **Threats**: |
-| • A multiplayer equivalent could tap into this game’s audience, allowing them to play against each other
-• Room for a competitor with more of a narrative | • Brand loyalty among existing players.
-• Free content updates could draw customers away from new releases in the space. |
+| **Strengths** | **Weaknesses** |
+| :-- | :-- |
+| • Commercially successful, large existing player base<br>• Unique approach to skill progression | • Lacks multiplayer support<br>• Minimal/nonexistent focus on story or worldbuilding |
+| **Opportunities** | **Threats** |
+| • A multiplayer equivalent could tap into this game’s audience, allowing them to play against each other<br>• Room for a competitor with more of a narrative | • Brand loyalty among existing players<br>• Free content updates could draw customers away from new releases in the space |
 
 # **3. Strategy**
 
