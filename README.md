@@ -454,7 +454,7 @@ The selection of Godot as the development engine is a prudent technical decision
 
 Acer. (2024) 'Rhythm games: their physical, social, and emotional benefits'. Available at: [https://blog.acer.com/en/discussion/1413/rhythm-games-their-physical-social-and-emotional-benefits](https://blog.acer.com/en/discussion/1413/rhythm-games-their-physical-social-and-emotional-benefits) (Accessed: 21 March 2025).
 
-Aron Katz. (2024) 'A Look at Successful Kickstarter Campaigns for Video Games from Small Studios and Independent Developers'. Available at: [https://medium.com/@arongkatz/a-look-at-successful-kickstarter-campaigns-for-video-games-from-small-studios-and-independent-c84a899d61fd](https://medium.com/@arongkatz/a-look-at-successful-kickstarter-campaigns-for-video-games-from-small-studios-and-independent-c84a899d61fd)
+Aron Katz. (2024) 'A Look at Successful Kickstarter Campaigns for Video Games from Small Studios and Independent Developers'. Available at: [https://medium.com/@arongkatz/a-look-at-successful-kickstarter-campaigns-for-video-games-from-small-studios-and-independent-c84a899d61fd](https://medium.com/@arongkatz/a-look-at-successful-kickstarter-campaigns-for-video-games-from-small-studios-and-independent-c84a899d61fd) (Accessed: 23 March 2025)
 
 Backlinko. (2025) 'Instagram user statistics'. Available at: [https://backlinko.com/instagram-users](https://backlinko.com/instagram-users) (Accessed: 21 March 2025).
 
