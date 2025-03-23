@@ -126,7 +126,7 @@ A web scrape was done to identify trends in **supply** and **demand** across a v
 
 We wrote a python script that scraped key data from over 200,000 Steam store pages, collecting user-reviews, pricing, user-defined tags, released dates, and more. Using review counts and game prices, we estimated sales and revenue using standard techniques like the [Boxleiter method](http://greyaliengames.com/blog/how-to-estimate-how-many-sales-a-steam-game-has-made/), and then modelled how these numbers might trend over time.
 
-We analysed which genres and themes tended to perform best with respect to average revenue per game, as well as customer satisfaction: given by review scores.
+We analysed which genres and themes tended to perform best with respect to average revenue per game, as well as customer satisfaction given by review scores.
 
 **Key Insights:**
 
@@ -135,7 +135,7 @@ We analysed which genres and themes tended to perform best with respect to avera
 - The most universally trending tag across all price ranges was  “Great Soundtrack”.
 - Out of all games listed on the Steam store page, only eight have both “Card Game” and “Rhythm” tags, with only one somewhat similar to our idea.
 
-This data solidified our choice of video game idea: revealing a trend towards musically-rich games and making it clear that card games are a flourishing market for low-budget game development teams. On top of this, in the face of these discovered trends, the combination of card and rhythm games reveals a niche that has not been tapped into.
+This data solidified our choice of video game idea, revealing a trend towards musically-rich games and making it clear that card games are a flourishing market for low-budget game development teams. On top of this, in the face of these discovered trends, the combination of card and rhythm games reveals a niche that has not been tapped into.
 
 **Cumulative Revenue per Game per Tag | Under £10**
 
